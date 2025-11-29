@@ -7,6 +7,9 @@
 for-in 循环
 for 自定义变量 in 可迭代对象:
     循环体
+    ...
+
+for-in 循环可以遍历可迭代对象中的每个元素，并将元素赋值给自定义变量。
 """
 for item in 'Python':
     print(item)
